@@ -1,0 +1,14 @@
+{
+    "chatId": 12345678,
+    "name": "Ism Familiya",
+    "registered": true,
+    "actions": {
+      "start": "...",
+      "lunchOut": "...",
+      "lunchIn": "...",
+      "end": "...",
+      "success": "..."
+    },
+    "waitingForReport": false
+  }
+  
